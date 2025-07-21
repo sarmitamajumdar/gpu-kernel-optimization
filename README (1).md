@@ -1,4 +1,4 @@
-# 🌱 OpenAI-Water Optimization Research
+#  C_Gpu_Kernel For OpenAI Water Optimization Research
 
 This repository contains the research paper titled:  
 **"OpenAI Prompt Inference and Water Efficiency: Toward Sustainable AI Workloads"**  
@@ -6,7 +6,7 @@ by *Sarmita Majumdar*.
 
 ---
 
-## 📄 Contents
+##  Contents
 
 - `OpenAI-Water Optimization.pdf`: The full research paper.
 - `Abstract.txt`: Standalone abstract for indexing or previews.
@@ -14,7 +14,7 @@ by *Sarmita Majumdar*.
 
 ---
 
-## 📘 Abstract
+##  Abstract
 
 This research investigates the underexplored environmental footprint of AI model inference—specifically, the **water usage involved when users submit prompts to large language models like OpenAI's GPT series**. It includes:
 - A realistic simulation model
@@ -26,16 +26,16 @@ This research investigates the underexplored environmental footprint of AI model
 
 ---
 
-## 💡 Highlights
+##  Highlights
 
-- 🌍 Proposes a **dual-efficiency framework**: energy + water
-- 🐍 Includes ready-to-run **Python code and plots**
-- 📊 Uses **real-world metrics and scenario modeling**
-- 🔁 Encourages **reuse, citation, and collaborative optimization**
+-  Proposes a **dual-efficiency framework**: energy + water
+-  Includes ready-to-run **Python code and plots**
+-  Uses **real-world metrics and scenario modeling**
+-  Encourages **reuse, citation, and collaborative optimization**
 
 ---
 
-## 🚀 Quickstart
+##  Quickstart
 
 1. Clone this repository:
    ```bash
@@ -53,13 +53,13 @@ This research investigates the underexplored environmental footprint of AI model
 
 ---
 
-## 📢 Citation and Reuse
+##  Citation and Reuse
 
 You are welcome to **cite, reuse, or extend** this work under the following terms:
 
-- 📘 **Use**: Educational, non-commercial, and research use is permitted.
-- 🧠 **Credit**: Please provide appropriate attribution to the author: **Sarmita Majumdar**.
-- 🤝 **Collaboration**: Contributions, forks, and feedback are welcome and encouraged!
+-  **Use**: Educational, non-commercial, and research use is permitted.
+-  **Credit**: Please provide appropriate attribution to the author: **Sarmita Majumdar**.
+-  **Collaboration**: Contributions, forks, and feedback are welcome and encouraged!
 
 If you use this work in your paper, repo, blog, or experiment, feel free to tag me or open an issue here.
 
@@ -74,7 +74,7 @@ This repository complements ongoing discussions around:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For collaborations or questions, please reach out via [GitHub Discussions](https://github.com/your-username/OpenAI-Water-Optimization/discussions) or raise an issue.
 
